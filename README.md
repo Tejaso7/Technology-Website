@@ -1,1 +1,1 @@
-https://nehashinde-technology.netlify.app/
+https://ai-trends-tejas.netlify.app/
